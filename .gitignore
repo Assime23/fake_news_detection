@@ -1,0 +1,14 @@
+# Ignorer les fichiers spécifiques
+.env
+config/settings.json
+
+# Ignorer les dossiers
+__pycache__/
+venv/
+node_modules/
+
+# Ignorer tous les fichiers d'un type spécifique
+*.log
+*.sqlite3
+*.pyc
+model/checkpoint-126/
