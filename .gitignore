@@ -11,5 +11,7 @@ node_modules/
 *.log
 *.sqlite3
 *.pyc
-model/checkpoint-126/*
+model/checkpoint-126/*zer.pt
+model/checkpoint-126/*.safe*
+
 trashbin.txt
